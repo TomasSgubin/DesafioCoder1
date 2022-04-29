@@ -620,6 +620,7 @@ text {
     .imagenesblog {
         width: 650px;
         height: 500px;
+        object-fit: contain;
         
     }
 
