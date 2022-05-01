@@ -72,7 +72,7 @@ header, nav, main, footer {
 }
 
 .imagenesblog {
-    width: 300px;
+    width: 100px;
     height: auto;
 }
 
@@ -546,6 +546,11 @@ text {
         width: 200px;
         height: auto;
     }
+
+    .imglogo {
+        width: 60%;
+        height: auto;
+    }
 }
 
 @media screen and (min-width: 1440px) {
@@ -611,13 +616,13 @@ text {
     }
 
     .imglogo {
-        width: 60%;
+        width: 80%;
         height: auto;
     }
 
     .logowhatsapp {
         position: fixed;
-        top: 94%;
+        top: 92%;
         left: 95%;
     }
 
