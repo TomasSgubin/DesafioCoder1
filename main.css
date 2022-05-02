@@ -46,9 +46,7 @@ main {
 }
 
 footer {
-    grid-area: footer;
-    background-color: #0e0e0e;
-    margin-top: auto;
+    grid-area: footer;    
 }
 
 header, nav, main, footer {
@@ -139,6 +137,7 @@ header, nav, main, footer {
     flex-direction: row;
     justify-content: center;
     color: white;
+    list-style-type: none;
 }
 
 .titulotable {
